@@ -1,7 +1,8 @@
+![Flame_Remote_Working_by_Icons8](https://user-images.githubusercontent.com/38510643/168483308-be83aee0-67f0-4ab9-8fe9-1fb489d40ec2.gif)
 ### Hi there 👋 My name is Rolando
 #### I am from southern CA. I love to surf and I love AI
 Currently, I am a data science student who likes to create Machine learning and Reinforcement learning models to explore topics I find interesting.
-![Flame_Remote_Working_by_Icons8](https://user-images.githubusercontent.com/38510643/168483308-be83aee0-67f0-4ab9-8fe9-1fb489d40ec2.gif)
+
 
 Skills: Python / Java / C / Tensorflow / OpenCv / HTML / CSS / MySQL / JavaScript / Php
 
