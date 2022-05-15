@@ -10,7 +10,7 @@ Skills: Python / Java / C / Tensorflow / OpenCv / HTML / CSS / MySQL / JavaScrip
 - 🌱 I’m currently learning Node.js and MongoDB 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='10'>](https://github.com/RoloPineda)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width = 10 height='10'>](https://github.com/RoloPineda)  
 
 
 
