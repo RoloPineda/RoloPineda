@@ -8,10 +8,11 @@ Skills: Python / Java / C / Tensorflow / OpenCv / HTML / CSS / MySQL / JavaScrip
 
 - 🔭 I’m currently working on creating a Reinforcement Learning model to predict wave scores during surfing championships 
 - 🌱 I’m currently learning Node.js and MongoDB 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RoloPineda)  
+  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoloPineda)](https://github.com/anuraghazra/github-readme-stats)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RoloPineda)
 
 
 
