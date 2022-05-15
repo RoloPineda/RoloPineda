@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Rolando
+### Hi there 👋 My name is Rolando
 #### I am from southern CA. I love to surf and I love AI
 Currently, I am a data science student who likes to create Machine learning and Reinforcement learning models to explore topics I find interesting. 
 
