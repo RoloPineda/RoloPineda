@@ -2,7 +2,7 @@
 #### I am from southern CA. I love to surf and I love AI
 Currently, I am a data science student who likes to create Machine learning and Reinforcement learning models to explore topics I find interesting. 
 
-Skills: Python / Java / C / Tensorflow / OpenCv / HTML / CSS / MySQL / JavaScript / 
+Skills: Python / Java / C / Tensorflow / OpenCv / HTML / CSS / MySQL / JavaScript / Php
 
 - 🔭 I’m currently working on creating a Reinforcement Learning model to predict wave scores during surfing championships 
 - 🌱 I’m currently learning Node.js and MongoDB 
