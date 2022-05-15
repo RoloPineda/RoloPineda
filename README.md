@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, My name is Rolando
+#### I am from southern CA. I love to surf and I love AI
+Currently, I am a data science student who likes to create Machine learning and Reinforcement learning models to explore topics I find interesting. 
 
-<!--
-**RoloPineda/RoloPineda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Python / Java / C / Tensorflow / OpenCv / HTML / CSS / MySQL / JavaScript / 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on creating a Reinforcement Learning model to predict wave scores during surfing championships 
+- 🌱 I’m currently learning Node.js and MongoDB 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RoloPineda)  
+
+
