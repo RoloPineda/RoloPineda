@@ -1,14 +1,16 @@
 ### Hi there 👋 My name is Rolando
 I am from southern CA. I love to surf and I love AI.
-Currently, I am a data science student who likes to create Machine learning and Reinforcement learning models to explore topics I find interesting.
+Currently, I am a data science student who likes to create Machine learning and Reinforcement learning models to explore topics I find interesting. <p align="left">
+ Skills: Python / Java / C / Tensorflow / OpenCv / HTML / CSS / MySQL / JavaScript / Php
 
-
-Skills: Python / Java / C / Tensorflow / OpenCv / HTML / CSS / MySQL / JavaScript / Php
-
-- 🔭 I’m currently working on creating a Reinforcement Learning model to predict wave scores during surfing championships 
 - 🌱 I’m currently learning Node.js and MongoDB 
+- 🔭 I’m currently working on creating a RL model to predict wave scores during surfing championships 
+ <img src="https://user-images.githubusercontent.com/38510643/168483308-be83aee0-67f0-4ab9-8fe9-1fb489d40ec2.gif" width="300" height="300">
+
+
+
   
-<img src="https://user-images.githubusercontent.com/38510643/168483308-be83aee0-67f0-4ab9-8fe9-1fb489d40ec2.gif" width="600" height="500">
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoloPineda)](https://github.com/anuraghazra/github-readme-stats)
 
