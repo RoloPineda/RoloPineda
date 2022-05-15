@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Rolando
-![Flame_Remote_Working_by_Icons8](https://user-images.githubusercontent.com/38510643/168483308-be83aee0-67f0-4ab9-8fe9-1fb489d40ec2.gif heigh=40)
+![Flame_Remote_Working_by_Icons8](https://user-images.githubusercontent.com/38510643/168483308-be83aee0-67f0-4ab9-8fe9-1fb489d40ec2.gif height=40)
 #### I am from southern CA. I love to surf and I love AI
 Currently, I am a data science student who likes to create Machine learning and Reinforcement learning models to explore topics I find interesting.
 
