@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Rolando
-![Flame_Remote_Working_by_Icons8](https://user-images.githubusercontent.com/38510643/168483308-be83aee0-67f0-4ab9-8fe9-1fb489d40ec2.gif)
+![Flame_Remote_Working_by_Icons8](https://user-images.githubusercontent.com/38510643/168483308-be83aee0-67f0-4ab9-8fe9-1fb489d40ec2.gif heigh=40)
 #### I am from southern CA. I love to surf and I love AI
 Currently, I am a data science student who likes to create Machine learning and Reinforcement learning models to explore topics I find interesting.
 
@@ -10,7 +10,7 @@ Skills: Python / Java / C / Tensorflow / OpenCv / HTML / CSS / MySQL / JavaScrip
 - 🌱 I’m currently learning Node.js and MongoDB 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' witdh=100>](https://github.com/RoloPineda)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height=40>](https://github.com/RoloPineda)  
 
 
 
