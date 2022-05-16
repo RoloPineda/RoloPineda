@@ -20,10 +20,7 @@ I am from southern CA. I love to surf and I love AI. AI is my passion because ev
   ![icons8-tensorflow-48](https://user-images.githubusercontent.com/38510643/168485299-680b41a4-d9e0-4a8a-955d-7ab06ab67c68.png)
   
 
-    
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoloPineda)](https://github.com/anuraghazra/github-readme-stats)
+  
 
 
 
