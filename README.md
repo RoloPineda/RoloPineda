@@ -18,10 +18,8 @@ I am from southern CA. I love to surf and I love AI. AI is my passion because ev
   Frameworks and tools:<p>
   ![icons8-opencv-48](https://user-images.githubusercontent.com/38510643/168485326-4a8e6919-375e-42bb-b2ae-2f968cf5b276.png)
   ![icons8-tensorflow-48](https://user-images.githubusercontent.com/38510643/168485299-680b41a4-d9e0-4a8a-955d-7ab06ab67c68.png)
+  ![icons8-numpy-64](https://user-images.githubusercontent.com/38510643/170463416-26c46b3b-c3a4-4b97-befb-c806ce60a2d5.png)
+  ![icons8-bootstrap-64](https://user-images.githubusercontent.com/38510643/170463133-8e3e5752-fe16-4b98-9e35-e47c4b5380b5.png)
   
-
   
-
-
-
 
