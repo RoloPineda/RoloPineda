@@ -9,10 +9,12 @@ I am from southern CA. I love to surf and I love AI. AI is my passion because ev
   ![icons8-css-64](https://user-images.githubusercontent.com/38510643/168485080-4f367f9a-a018-47c3-8b49-378fe0bbbedf.png)
   <img src="https://user-images.githubusercontent.com/38510643/168485085-b72528d3-6488-43bc-9dea-c82dcae4b65a.png" width=64 height=64>
   ![icons8-c-64](https://user-images.githubusercontent.com/38510643/168485367-219db0cd-2c10-451e-8f5d-cde767afd6cd.png)
+  ![c-](https://user-images.githubusercontent.com/38510643/186562459-dfbff39a-7b7a-4d9a-8413-39bc697f03f0.png)
   <img src="https://user-images.githubusercontent.com/38510643/168485404-cdc68a1e-55e0-4537-bddc-6e9e21235166.png" width=63 height=63>
   ![icons8-mysql-logo-48](https://user-images.githubusercontent.com/38510643/168485484-0172fbd6-113e-4c54-8ac0-c77aef5a8340.png)</p>
   </p>
   
+
 
 
   Frameworks and tools:<p>
