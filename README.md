@@ -1,26 +1,41 @@
-### Hi there 👋 My name is Rolando
-<img src="https://user-images.githubusercontent.com/38510643/168483308-be83aee0-67f0-4ab9-8fe9-1fb489d40ec2.gif" width="300" align = 'right' height="286">
-I am from southern CA. I love to surf and I love AI. AI is my passion because every year we push the boundaries of what can be accomplished and I want to see how far we can go! I like to come up with new projects and ideas to see what is possible to accomplish. Currently, I am working on a ML model that predicts waves scores during surfing contests. <p align="left">
-  
-  Programming Languages:<p>
-  <img src="https://user-images.githubusercontent.com/38510643/168484964-731874a7-84d7-4dbc-a692-4f400b5a76e5.gif" width=64 height=64>
-  <img src="https://user-images.githubusercontent.com/38510643/168484989-0ad74c45-f718-419b-98e9-36a8cb94db27.gif" width=64 height=64>
-  ![icons8-html-64](https://user-images.githubusercontent.com/38510643/168485076-dc8740d7-9a21-42be-9a36-fa410316a1dd.png)
-  ![icons8-css-64](https://user-images.githubusercontent.com/38510643/168485080-4f367f9a-a018-47c3-8b49-378fe0bbbedf.png)
-  <img src="https://user-images.githubusercontent.com/38510643/168485085-b72528d3-6488-43bc-9dea-c82dcae4b65a.png" width=64 height=64>
-  ![icons8-c-64](https://user-images.githubusercontent.com/38510643/168485367-219db0cd-2c10-451e-8f5d-cde767afd6cd.png)
-  ![c-](https://user-images.githubusercontent.com/38510643/186562459-dfbff39a-7b7a-4d9a-8413-39bc697f03f0.png)
-  <img src="https://user-images.githubusercontent.com/38510643/168485404-cdc68a1e-55e0-4537-bddc-6e9e21235166.png" width=63 height=63>
-  ![icons8-mysql-logo-48](https://user-images.githubusercontent.com/38510643/168485484-0172fbd6-113e-4c54-8ac0-c77aef5a8340.png)</p>
-  </p>
-  
+# Rolando Pineda
 
+> AI/ML Engineer building multi-agent systems &nbsp;|&nbsp; San Diego, CA
 
+I like building AI systems that work in the real world. I'm drawn to the parts where things get messy: unstructured documents, subjective decisions, production reliability. When I'm not engineering, I'm probably surfing.
 
-  Frameworks and tools:<p>
-  ![icons8-opencv-48](https://user-images.githubusercontent.com/38510643/168485326-4a8e6919-375e-42bb-b2ae-2f968cf5b276.png)
-  ![icons8-tensorflow-48](https://user-images.githubusercontent.com/38510643/168485299-680b41a4-d9e0-4a8a-955d-7ab06ab67c68.png)
-  ![icons8-numpy-64](https://user-images.githubusercontent.com/38510643/170463416-26c46b3b-c3a4-4b97-befb-c806ce60a2d5.png)
-  ![icons8-bootstrap-64](https://user-images.githubusercontent.com/38510643/170463133-8e3e5752-fe16-4b98-9e35-e47c4b5380b5.png)
-  ![icons8-flask-64](https://user-images.githubusercontent.com/38510643/174056323-550b50fd-99e1-481c-a018-810e21f94bf3.png)
+---
 
+## What I Build
+
+#### Multi-Agent Requirements Verification System
+
+> A system of specialized LLM agents that reads technical documents, extracts requirements, and evaluates whether evidence proves compliance with humans in the loop.
+
+Built a 3-agent architecture where each agent handles a distinct task (extraction, verification planning, compliance evaluation) with task-appropriate model sizing. Fine-tuned open-source LLMs to hit 95% exact-match extraction accuracy on unstructured documents. Added confidence calibration across multiple inference passes, grounding checks, and hallucination detection so reviewers can trust what the system outputs.
+
+![Llama](https://img.shields.io/badge/Llama-0D9488?style=flat-square&logo=meta&logoColor=white) ![Mistral](https://img.shields.io/badge/Mistral-0D9488?style=flat-square&logoColor=white) ![vLLM](https://img.shields.io/badge/vLLM-115E59?style=flat-square&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-115E59?style=flat-square&logo=postgresql&logoColor=white) ![LoRA](https://img.shields.io/badge/LoRA-0F766E?style=flat-square&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-0F766E?style=flat-square&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-134E4A?style=flat-square&logo=mlflow&logoColor=white) ![AWS EKS](https://img.shields.io/badge/AWS_EKS-134E4A?style=flat-square&logo=amazoneks&logoColor=white)
+
+#### Contract Intelligence Platform
+
+> A RAG-powered application that lets users search and ask natural-language questions across a large corpus of legal contracts, with automated extraction and summarization.
+
+Designed and built end to end as a solo project. Conversational interface over documents backed by pgvector retrieval, with async processing for ingesting and chunking contracts at scale.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0D9488?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-0D9488?style=flat-square&logo=react&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-115E59?style=flat-square&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-115E59?style=flat-square&logo=postgresql&logoColor=white) ![Qwen](https://img.shields.io/badge/Qwen-0F766E?style=flat-square&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-134E4A?style=flat-square&logo=celery&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-134E4A?style=flat-square&logo=rabbitmq&logoColor=white)
+
+---
+
+## Stack
+
+**Languages**&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/Python-0D9488?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-115E59?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-115E59?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-0F766E?style=flat-square&logoColor=white)
+
+**ML / AI**&nbsp;&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-0D9488?style=flat-square&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-0D9488?style=flat-square&logo=huggingface&logoColor=white) ![vLLM](https://img.shields.io/badge/vLLM-115E59?style=flat-square&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-115E59?style=flat-square&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-0F766E?style=flat-square&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0F766E?style=flat-square&logo=mlflow&logoColor=white)
+
+**Backend / Data**&nbsp;&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-0D9488?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D9488?style=flat-square&logo=postgresql&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-115E59?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-115E59?style=flat-square&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0F766E?style=flat-square&logo=rabbitmq&logoColor=white)
+
+**Infra / DevOps**&nbsp;&nbsp;
+![AWS](https://img.shields.io/badge/AWS-0D9488?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0D9488?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-115E59?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-115E59?style=flat-square&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0F766E?style=flat-square&logo=githubactions&logoColor=white)
