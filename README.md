@@ -6,26 +6,6 @@ I like building AI systems that work in the real world. I'm drawn to the parts w
 
 ---
 
-## What I Build
-
-#### Multi-Agent Requirements Verification System
-
-> A system of specialized LLM agents that reads technical documents, extracts requirements, and evaluates whether evidence proves compliance with humans in the loop.
-
-Built a 3-agent architecture where each agent handles a distinct task (extraction, verification planning, compliance evaluation) with task-appropriate model sizing. Fine-tuned open-source LLMs to hit 95% exact-match extraction accuracy on unstructured documents. Added confidence calibration across multiple inference passes, grounding checks, and hallucination detection so reviewers can trust what the system outputs.
-
-![Llama](https://img.shields.io/badge/Llama-0D9488?style=flat-square&logo=meta&logoColor=white) ![Mistral](https://img.shields.io/badge/Mistral-0D9488?style=flat-square&logoColor=white) ![vLLM](https://img.shields.io/badge/vLLM-115E59?style=flat-square&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-115E59?style=flat-square&logo=postgresql&logoColor=white) ![LoRA](https://img.shields.io/badge/LoRA-0F766E?style=flat-square&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-0F766E?style=flat-square&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-134E4A?style=flat-square&logo=mlflow&logoColor=white) ![AWS EKS](https://img.shields.io/badge/AWS_EKS-134E4A?style=flat-square&logo=amazoneks&logoColor=white)
-
-#### Contract Intelligence Platform
-
-> A RAG-powered application that lets users search and ask natural-language questions across a large corpus of legal contracts, with automated extraction and summarization.
-
-Designed and built end to end as a solo project. Conversational interface over documents backed by pgvector retrieval, with async processing for ingesting and chunking contracts at scale.
-
-![FastAPI](https://img.shields.io/badge/FastAPI-0D9488?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-0D9488?style=flat-square&logo=react&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-115E59?style=flat-square&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-115E59?style=flat-square&logo=postgresql&logoColor=white) ![Qwen](https://img.shields.io/badge/Qwen-0F766E?style=flat-square&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-134E4A?style=flat-square&logo=celery&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-134E4A?style=flat-square&logo=rabbitmq&logoColor=white)
-
----
-
 ## Stack
 
 **Languages**&nbsp;&nbsp;
