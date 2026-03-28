@@ -1,27 +1,32 @@
-name: GitHub Metrics
+name: Update README cards
 
 on:
   schedule:
-    - cron: "0 6 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  github-metrics:
+  build:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
     steps:
-      - name: Generate metrics
-        uses: lowlighter/metrics@latest
+      - uses: actions/checkout@v6
+
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
         with:
-          filename: metrics.languages.svg
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5
+          path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used, recently-used
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 365
-          plugin_languages_recent_load: 300
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push
