@@ -19,8 +19,3 @@ I like building AI systems that work in the real world. I'm drawn to the parts w
 
 **Infra / DevOps**&nbsp;&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-0D9488?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0D9488?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-115E59?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-115E59?style=flat-square&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0F766E?style=flat-square&logo=githubactions&logoColor=white)
-
-
-## Top languages
-
-![Top Languages](./profile/top-langs.svg)
