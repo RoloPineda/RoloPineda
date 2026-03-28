@@ -1,32 +1,42 @@
-name: Update README cards
+name: GitHub Metrics
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 6 * * *"
+
+permissions:
+  contents: write
 
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
-
     steps:
-      - uses: actions/checkout@v6
-
-      - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
+      - name: Generate language metrics
+        uses: lowlighter/metrics@latest
         with:
-          card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: metrics.languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          template: classic
 
-      - name: Commit cards
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
-          git commit -m "Update README cards" || exit 0
-          git push
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_limit: 6
+          plugin_languages_threshold: 2%
+          plugin_languages_other: yes
+          plugin_languages_categories: programming
+          plugin_languages_recent_categories: programming
+          plugin_languages_recent_days: 365
+          plugin_languages_recent_load: 300
+          plugin_languages_details: percentage, lines
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+
+          plugin_languages_colors: 0:#58a6ff,1:#3fb950,2:#d29922,3:#a371f7,4:#f778ba,5:#8b949e
+          plugin_languages_aliases: javascript:JS,typescript:TS
+          commits_authoring: RoloPineda,rolando.pineda12@yahoo.com
